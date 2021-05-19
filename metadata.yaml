@@ -1,6 +1,8 @@
 homepage: "https://100shoppers.com"
 documentation: "https://help.100shoppers.com/en/articles/4315445-integration-through-google-tag-manager"
 versions:
+  - sha: 56f700383494510cab2ec36c006c4693d7fc012b
+    changeNotes: Add widget language field.
   - sha: f2e3f506c0960e403f8062998495e95f4111897f
     changeNotes: Add widget version field.
   - sha: 449606b6a18f112288d8e3ab1851a0549dce499f

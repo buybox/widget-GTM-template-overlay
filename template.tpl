@@ -64,6 +64,23 @@ ___TEMPLATE_PARAMETERS___
     "defaultValue": "latest"
   },
   {
+    "type": "SELECT",
+    "name": "bb-language",
+    "displayName": "Widget language",
+    "selectItems": [
+      {
+        "value": "pl",
+        "displayValue": "Polski"
+      },
+      {
+        "value": "en",
+        "displayValue": "English"
+      },
+    ],
+    "simpleValueType": true,
+    "defaultValue": "pl"
+  },
+  {
     "type": "TEXT",
     "name": "id",
     "displayName": "Document element ID",
